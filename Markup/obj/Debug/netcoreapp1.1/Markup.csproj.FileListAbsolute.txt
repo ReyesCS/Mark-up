@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\bin\Debug\netcoreapp1.1\Markup.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\bin\Debug\netcoreapp1.1\Markup.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\bin\Debug\netcoreapp1.1\Markup.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\obj\Debug\netcoreapp1.1\Markup.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\obj\Debug\netcoreapp1.1\Markup.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\bin\Debug\netcoreapp1.1\Markup.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\bin\Debug\netcoreapp1.1\Markup.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\obj\Debug\netcoreapp1.1\Markup.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Markup\Markup\obj\Debug\netcoreapp1.1\Markup.pdb
